@@ -1,5 +1,6 @@
 streamlit==1.65.0
 pymongo[srv]==4.18.3
+# Provides `dotenv` for load_dotenv() in the frontend and database modules.
 python-dotenv==1.2.4
 requests==2.34.2
 pandas==2.3.3
